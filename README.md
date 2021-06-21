@@ -1,8 +1,8 @@
 ### Top net for few shot classification on CIFAR
-- [Top Net](https://paperswithcode.com/sota/few-shot-image-classification-on-cifar-fs-5-1)
+- [Few shot classification Paperwithcode](https://paperswithcode.com/sota/few-shot-image-classification-on-cifar-fs-5-1)
 
-#### [Leaderboards for few-shot image classification on miniImageNet, tieredImageNet, FC100, and CIFAR-FS.]
-- (https://github.com/yaoyao-liu/few-shot-classification-leaderboard)
+#### Leaderboards for few-shot image classification on miniImageNet, tieredImageNet, FC100, and CIFAR-FS
+- [Papers on top-tier conferences](https://github.com/yaoyao-liu/few-shot-classification-leaderboard)
 
 ### Papers/ Code
 - [1. Rethinking few-shot image classification: a good embedding is all you need?](https://github.com/WangYueFt/rfs)
