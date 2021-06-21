@@ -8,3 +8,5 @@
 - [1. Rethinking few-shot image classification: a good embedding is all you need?](https://github.com/WangYueFt/rfs)
 - [2. Meta-Learning with Differentiable Convex Optimization](https://github.com/kjunelee/MetaOptNet)
 - [3. S2M2 Charting the Right Manifold: Manifold Mixup for Few-shot Learning](https://github.com/nupurkmr9/S2M2_fewshot)
+- [4. Leveraging the Feature Distribution in Transfer-based Few-Shot Learning](https://github.com/yhu01/PT-MAP)
+- [5. Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation](https://github.com/hytseng0509/CrossDomainFewShot)
